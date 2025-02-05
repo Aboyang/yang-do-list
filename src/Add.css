@@ -1,0 +1,50 @@
+.add-task {
+    display: flex;
+    margin-top: 4px;
+    height: 40px;
+
+    border-radius: 8px;
+    background: linear-gradient(45deg, rgb(225, 227, 224), rgb(179, 181, 180));
+}
+
+.add-task > input {
+    background-color: transparent;
+
+    font-size: 1em;
+    color: white;
+  
+    display: flex;
+    align-items: center;
+
+    height: auto;
+    width: 80%;
+
+    padding-left: 5%;
+
+    border: none;
+    border-radius: 8px;
+
+}
+
+.add-task > input::placeholder {
+    color: white;
+}
+
+.add-task > button {
+ 
+    background-color: transparent;
+    font-size: 1.5em;
+    color: black;
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: auto;
+    width: 20%;
+
+    margin: 0;
+
+    border: none;
+}
+
