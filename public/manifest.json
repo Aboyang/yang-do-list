@@ -1,7 +1,7 @@
 {
     "name": "Yang Do List",
     "short_name": "Yang Do List",
-    "start_url": "index.html",
+    "start_url": "/",
     "scope": "./",
     "icons": [
     {
